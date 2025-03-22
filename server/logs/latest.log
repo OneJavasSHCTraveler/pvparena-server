@@ -223,3 +223,124 @@
 [16:54:04] [Server thread/INFO]: De-opped javasmc_
 [16:56:10] [Server thread/INFO]: Matt lost connection: Timed out
 [16:56:10] [Server thread/INFO]: Matt left the game.
+[17:01:53] [Thread-9/INFO]: UUID of player Matt is 15f59279-dd71-3c4a-a835-2dcb0801f710
+[17:01:53] [Server thread/INFO]: Matt[/[0:0:0:0:0:0:0:1]:43988] logged in with entity id 527 at ([world]2.3265738091378667, 68.0, 230.88682890871524)
+[17:02:06] [Server thread/INFO]: Matt issued server command: /gamemode c
+[17:02:06] [Server thread/INFO]: [Matt: Set own game mode to Creative Mode]
+[17:02:21] [Server thread/INFO]: Matt issued server command: /kill
+[17:02:21] [Server thread/INFO]: Matt fell out of the world
+[17:02:21] [Server thread/INFO]: [Matt: Killed Matt]
+[17:02:34] [Server thread/INFO]: Matt issued server command: /claim
+[17:03:03] [Server thread/INFO]: Matt issued server command: /weather clear
+[17:03:03] [Server thread/INFO]: [Matt: Changing to clear weather]
+[17:03:06] [Server thread/INFO]: Matt issued server command: /time set 0
+[17:03:06] [Server thread/INFO]: [Matt: Set the time to 0]
+[17:04:12] [Server thread/INFO]: Matt issued server command: /rtp
+[17:04:27] [Server thread/INFO]: Matt issued server command: /home
+[17:05:40] [Server thread/INFO]: Matt lost connection: Disconnected
+[17:05:40] [Server thread/INFO]: Matt left the game.
+[17:08:05] [Thread-10/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:08:05] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:42646] logged in with entity id 1093 at ([world]2.5, 69.0, 242.5)
+[17:08:09] [Thread-11/INFO]: UUID of player Matt is 15f59279-dd71-3c4a-a835-2dcb0801f710
+[17:08:09] [Server thread/INFO]: Matt[/[0:0:0:0:0:0:0:1]:42656] logged in with entity id 1104 at ([world]17.023298584415773, 67.0, 249.6155379606284)
+[17:08:30] [Server thread/INFO]: Ty_2013 has just earned the achievement [Taking Inventory]
+[17:08:35] [Server thread/INFO]: Ty_2013 lost connection: Login timed out!
+[17:08:35] [Server thread/INFO]: Ty_2013 left the game.
+[17:08:35] [Server thread/WARN]: handleDisconnection() called twice
+[17:08:43] [Thread-12/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:08:43] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:53516] logged in with entity id 1132 at ([world]2.0124199509832255, 69.0, 242.69377292177649)
+[17:09:13] [Server thread/INFO]: Ty_2013 lost connection: Login timed out!
+[17:09:13] [Server thread/INFO]: Ty_2013 left the game.
+[17:09:13] [Server thread/WARN]: handleDisconnection() called twice
+[17:09:17] [Thread-13/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:09:17] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:45508] logged in with entity id 1170 at ([world]2.0124199509832255, 69.0, 242.69377292177649)
+[17:09:33] [Server thread/INFO]: Matt issued server command: /op ty_2013
+[17:09:33] [Server thread/INFO]: [Matt: Opped ty_2013]
+[17:09:42] [Server thread/INFO]: Matt issued server command: /gmc
+[17:09:44] [Server thread/INFO]: Ty_2013 issued server command: /gamemode c
+[17:09:44] [Server thread/INFO]: [Ty_2013: Set own game mode to Creative Mode]
+[17:09:51] [Server thread/INFO]: Matt issued server command: /weather clear
+[17:09:51] [Server thread/INFO]: [Matt: Changing to clear weather]
+[17:10:04] [Server thread/INFO]: Ty_2013 issued server command: /time day
+[17:10:33] [Server thread/INFO]: Matt lost connection: Disconnected
+[17:10:33] [Server thread/INFO]: Matt left the game.
+[17:12:56] [Server thread/INFO]: Ty_2013 lost connection: Disconnected
+[17:12:56] [Server thread/INFO]: Ty_2013 left the game.
+[17:13:56] [Thread-14/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:13:56] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:52150] logged in with entity id 1480 at ([world]4.627557364316309, 69.0, 238.3250882382275)
+[17:14:12] [Thread-15/INFO]: UUID of player Matt is 15f59279-dd71-3c4a-a835-2dcb0801f710
+[17:14:12] [Server thread/INFO]: Matt[/[0:0:0:0:0:0:0:1]:49382] logged in with entity id 1482 at ([world]4.425137704718771, 69.0, 243.49236342058867)
+[17:14:23] [Server thread/INFO]: Ty_2013 issued server command: /time set day
+[17:14:23] [Server thread/INFO]: [Ty_2013: Set the time to 1000]
+[17:14:33] [Server thread/INFO]: Matt issued server command: /settime 0
+[17:14:37] [Server thread/INFO]: Matt issued server command: /time set 0
+[17:14:37] [Server thread/INFO]: [Matt: Set the time to 0]
+[17:15:17] [Async Chat Thread - #0/INFO]: <Matt> we got a new player joining soon[m
+
+[17:15:22] [Async Chat Thread - #0/INFO]: <Matt> can i test the ban command on u ty?[m
+
+[17:15:26] [Async Chat Thread - #0/INFO]: <Matt> and ill unban[m
+
+[17:15:28] [Server thread/INFO]: Ty_2013 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 7
+[17:15:28] [Server thread/INFO]: Ty_2013 left the game.
+[17:15:29] [Async Chat Thread - #0/INFO]: <Matt> ok seriously[m
+
+[17:15:34] [Server thread/INFO]: Matt issued server command: /clear ty_2013
+[17:15:34] [Server thread/INFO]: [Matt: That player cannot be found]
+[17:15:36] [Thread-16/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:15:36] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:48618] logged in with entity id 1751 at ([world]12.018810935404524, 75.25808058016234, 241.64591740049212)
+[17:16:05] [Server thread/INFO]: Matt issued server command: /clear ty_2013 diamond_chestplate
+[17:16:05] [Server thread/INFO]: [Matt: Cleared the inventory of Ty_2013, removing 1 items]
+[17:16:12] [Server thread/INFO]: Matt issued server command: /clear ty_2013 diamond_leggings
+[17:16:12] [Server thread/INFO]: [Matt: Could not clear the inventory of Ty_2013, no items to remove]
+[17:16:16] [Server thread/INFO]: Matt issued server command: /clear ty_2013 diamond_boots
+[17:16:16] [Server thread/INFO]: [Matt: Could not clear the inventory of Ty_2013, no items to remove]
+[17:16:19] [Server thread/INFO]: Matt issued server command: /clear ty_2013 diamond_helmet
+[17:16:19] [Server thread/INFO]: [Matt: Could not clear the inventory of Ty_2013, no items to remove]
+[17:16:22] [Server thread/INFO]: Matt issued server command: /clear ty_2013 diamond_axe
+[17:16:22] [Server thread/INFO]: [Matt: Cleared the inventory of Ty_2013, removing 1 items]
+[17:16:23] [Thread-17/INFO]: UUID of player KingBlue is 51f94ef7-2722-3afa-9897-23ba2e846b39
+[17:16:23] [Server thread/INFO]: KingBlue[/[0:0:0:0:0:0:0:1]:37960] logged in with entity id 1787 at ([world]5.5, 68.0, 258.5)
+[17:16:26] [Async Chat Thread - #0/INFO]: <Matt> YOOO[m
+
+[17:16:28] [Server thread/INFO]: Ty_2013 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 7
+[17:16:28] [Server thread/INFO]: Ty_2013 left the game.
+[17:16:32] [Async Chat Thread - #0/INFO]: <Matt> CAN I TEST SOMETHING ON U RQ[m
+
+[17:16:33] [Thread-18/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:16:33] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:53580] logged in with entity id 1951 at ([world]14.127850452570978, 70.1707870772188, 239.53287233386084)
+[17:16:36] [Async Chat Thread - #0/INFO]: <KingBlue> sure[m
+
+[17:16:41] [Async Chat Thread - #0/INFO]: <Matt> dw ill unban[m
+
+[17:16:48] [Server thread/INFO]: Matt issued server command: /ban kingblue DW UR UNBANNED JS A TEST
+[17:16:48] [Server thread/INFO]: KingBlue lost connection: You are banned from this server.
+[17:16:48] [Server thread/INFO]: KingBlue left the game.
+[17:16:48] [Server thread/INFO]: [Matt: Banned player kingblue]
+[17:16:48] [Server thread/WARN]: handleDisconnection() called twice
+[17:16:52] [Server thread/INFO]: Matt issued server command: /unban kingblue
+[17:16:53] [Thread-19/INFO]: UUID of player KingBlue is 51f94ef7-2722-3afa-9897-23ba2e846b39
+[17:16:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1107eb[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@58ce3f57], isEaglerPlayer=[com.mojang.authlib.properties.Property@56099250]},legacy=false] (/[0:0:0:0:0:0:0:1]:53978): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:16:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1107eb[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@58ce3f57], isEaglerPlayer=[com.mojang.authlib.properties.Property@56099250]},legacy=false] (/[0:0:0:0:0:0:0:1]:53978): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:16:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@1107eb[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@58ce3f57], isEaglerPlayer=[com.mojang.authlib.properties.Property@56099250]},legacy=false] (/[0:0:0:0:0:0:0:1]:53978) lost connection: You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:16:59] [Thread-20/INFO]: UUID of player KingBlue is 51f94ef7-2722-3afa-9897-23ba2e846b39
+[17:16:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f03ca59[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@43dffc57], isEaglerPlayer=[com.mojang.authlib.properties.Property@6881b2ee]},legacy=false] (/[0:0:0:0:0:0:0:1]:55096): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:16:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f03ca59[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@43dffc57], isEaglerPlayer=[com.mojang.authlib.properties.Property@6881b2ee]},legacy=false] (/[0:0:0:0:0:0:0:1]:55096): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:16:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f03ca59[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@43dffc57], isEaglerPlayer=[com.mojang.authlib.properties.Property@6881b2ee]},legacy=false] (/[0:0:0:0:0:0:0:1]:55096) lost connection: You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:17:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[17:17:06] [Thread-21/INFO]: UUID of player KingBlue is 51f94ef7-2722-3afa-9897-23ba2e846b39
+[17:17:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5308f561[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@5adcb81f], isEaglerPlayer=[com.mojang.authlib.properties.Property@3871a999]},legacy=false] (/[0:0:0:0:0:0:0:1]:55102): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:17:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5308f561[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@5adcb81f], isEaglerPlayer=[com.mojang.authlib.properties.Property@3871a999]},legacy=false] (/[0:0:0:0:0:0:0:1]:55102): You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:17:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@5308f561[id=51f94ef7-2722-3afa-9897-23ba2e846b39,name=KingBlue,properties={textures=[com.mojang.authlib.properties.Property@5adcb81f], isEaglerPlayer=[com.mojang.authlib.properties.Property@3871a999]},legacy=false] (/[0:0:0:0:0:0:0:1]:55102) lost connection: You are banned from this server!
+Reason: DW UR UNBANNED JS A TEST
+[17:17:13] [Thread-22/INFO]: UUID of player KingBlue1 is b5a54054-b84f-3eb5-8ec8-655c835a92c0
+[17:17:13] [Server thread/INFO]: KingBlue1[/[0:0:0:0:0:0:0:1]:40636] logged in with entity id 1959 at ([world]5.5, 69.0, 242.5)
