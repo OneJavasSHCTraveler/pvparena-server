@@ -558,3 +558,128 @@ Reason: DW UR UNBANNED JS A TEST
 
 [17:19:04] [Async Chat Thread - #1/INFO]: <Matt> its my first time alr![m
 
+[17:19:17] [Thread-23/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:19:17] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:43302] logged in with entity id 3178 at ([world]3.622856736944052, 96.52453590454564, 264.44686599586737)
+[17:19:40] [Server thread/INFO]: Matt issued server command: /gamemode s @a
+[17:19:40] [Server thread/INFO]: [Matt: Set own game mode to Survival Mode]
+[17:19:40] [Server thread/INFO]: [Matt: Set KingBlue1's game mode to Survival Mode]
+[17:19:40] [Server thread/INFO]: [Matt: Set Ty_2013's game mode to Survival Mode]
+[17:19:42] [Async Chat Thread - #1/INFO]: <Matt> lets start[m
+
+[17:19:45] [Server thread/INFO]: Matt issued server command: /clear @p
+[17:19:45] [Server thread/INFO]: [Matt: Cleared the inventory of Matt, removing 5 items]
+[17:19:54] [Async Chat Thread - #1/INFO]: <Matt> first to diamond gets c mode for 5 minutes!![m
+
+[17:19:58] [Async Chat Thread - #1/INFO]: <Matt> jk[m
+
+[17:20:03] [Async Chat Thread - #1/INFO]: <KingBlue1> dang it[m
+
+[17:20:10] [Server thread/INFO]: Ty_2013 issued server command: /gamemode c
+[17:20:19] [Server thread/INFO]: Matt issued server command: /tree @p
+[17:20:22] [Server thread/INFO]: Matt issued server command: /tree oak
+[17:20:24] [Server thread/INFO]: Matt issued server command: /tree spruce
+[17:20:27] [Server thread/INFO]: Matt issued server command: /tree oak_log
+[17:20:30] [Server thread/INFO]: Matt issued server command: /tree 1
+[17:20:48] [Server thread/INFO]: KingBlue1 issued server command: /superpickax
+[17:20:54] [Server thread/INFO]: KingBlue1 issued server command: /superpickaxe
+[17:20:58] [Server thread/INFO]: Matt has just earned the achievement [Getting Wood]
+[17:21:28] [Server thread/INFO]: Matt has just earned the achievement [Benchmarking]
+[17:21:30] [Server thread/INFO]: Matt issued server command: /tpa
+[17:21:36] [Server thread/INFO]: Matt issued server command: /tpahere ty_2013
+[17:21:46] [Server thread/INFO]: Ty_2013 issued server command: /tpaccept
+[17:21:46] [Server thread/INFO]: Matt has just earned the achievement [Time to Mine!]
+[17:21:54] [Async Chat Thread - #2/INFO]: <Matt> also js be chill[m
+
+[17:22:17] [Server thread/INFO]: KingBlue1 has just earned the achievement [Getting Wood]
+[17:22:21] [Server thread/INFO]: Matt issued server command: /kick ty_2013
+[17:22:21] [Server thread/INFO]: Ty_2013 lost connection: Kicked by an operator.
+[17:22:21] [Server thread/INFO]: Ty_2013 left the game.
+[17:22:21] [Server thread/INFO]: [Matt: Kicked Ty_2013 from the game]
+[17:22:21] [Server thread/WARN]: handleDisconnection() called twice
+[17:22:30] [Server thread/INFO]: Matt issued server command: /tellraw @a NO FIGHTING RN!
+[17:22:30] [Server thread/INFO]: [Matt: Invalid json: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 5]
+[17:22:30] [Server thread/INFO]: [Matt: Invalid json: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 5]
+[17:22:42] [Server thread/INFO]: Matt has just earned the achievement [Time to Strike!]
+[17:22:44] [Server thread/INFO]: KingBlue1 lost connection: Disconnected
+[17:22:44] [Server thread/INFO]: KingBlue1 left the game.
+[17:23:40] [Server thread/INFO]: Matt has just earned the achievement [Getting an Upgrade]
+[17:24:48] [Server thread/INFO]: Matt issued server command: /gamerule keepInventory true
+[17:24:48] [Server thread/INFO]: [Matt: Game rule has been updated]
+[17:24:52] [Server thread/INFO]: Matt issued server command: /heal
+[17:24:57] [Server thread/INFO]: Matt issued server command: /give @p cooked_chicken 2
+[17:24:57] [Server thread/INFO]: [Matt: Given [Cooked Chicken] * 2 to Matt]
+[17:25:16] [Server thread/INFO]: Matt has just earned the achievement [Monster Hunter]
+[17:30:31] [Server thread/INFO]: Matt has just earned the achievement [Hot Topic]
+[17:30:50] [Server thread/INFO]: Matt has just earned the achievement [Acquire Hardware]
+[17:31:02] [Server thread/INFO]: Matt issued server command: /weather clear 2555
+[17:31:02] [Server thread/INFO]: [Matt: Changing to clear weather]
+[17:31:22] [Server thread/INFO]: Matt lost connection: Disconnected
+[17:31:22] [Server thread/INFO]: Matt left the game.
+[17:34:57] [Thread-25/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:34:57] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:46154] logged in with entity id 5893 at ([world]65.54825667695334, 78.0, 174.71084250602834)
+[17:35:02] [Server thread/INFO]: Ty_2013 lost connection: Disconnected
+[17:35:02] [Server thread/INFO]: Ty_2013 left the game.
+[17:35:04] [Thread-26/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:35:04] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:49606] logged in with entity id 6069 at ([world]65.54825667695334, 78.0, 174.71084250602834)
+[17:35:06] [Server thread/INFO]: Ty_2013 lost connection: Disconnected
+[17:35:06] [Server thread/INFO]: Ty_2013 left the game.
+[17:35:09] [Thread-27/INFO]: UUID of player Matt is 15f59279-dd71-3c4a-a835-2dcb0801f710
+[17:35:10] [Server thread/INFO]: Matt[/[0:0:0:0:0:0:0:1]:39268] logged in with entity id 6084 at ([world]78.04560562254613, 49.0, 69.77505210434212)
+[17:35:10] [Thread-28/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:35:10] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:39272] logged in with entity id 6158 at ([world]65.54825667695334, 78.0, 174.71084250602834)
+[17:35:11] [Server thread/INFO]: Ty_2013 lost connection: Disconnected
+[17:35:11] [Server thread/INFO]: Ty_2013 left the game.
+[17:35:13] [Thread-29/INFO]: UUID of player Ty_2013 is 603de176-d764-3cc9-abb4-2eea494ddb2b
+[17:35:13] [Server thread/INFO]: Ty_2013[/[0:0:0:0:0:0:0:1]:39286] logged in with entity id 6159 at ([world]65.54825667695334, 78.0, 174.71084250602834)
+[17:35:16] [Server thread/INFO]: Ty_2013 lost connection: Disconnected
+[17:35:16] [Server thread/INFO]: Ty_2013 left the game.
+[17:39:29] [Thread-30/INFO]: UUID of player divine is 676630a5-8ec2-3f46-9a45-b03b29f39b41
+[17:39:29] [Server thread/INFO]: divine[/[0:0:0:0:0:0:0:1]:42706] logged in with entity id 6825 at ([world]13.5, 69.0, 243.5)
+[17:39:32] [Async Chat Thread - #3/INFO]: <Matt> welcome![m
+
+[17:39:36] [Async Chat Thread - #3/INFO]: <Matt> tp to me if u need to[m
+
+[17:40:05] [Server thread/INFO]: Matt issued server command: /scoreboard teams add Owner
+[17:40:05] [Server thread/INFO]: [Matt: Added new team 'Owner' successfully]
+[17:40:09] [Server thread/INFO]: Matt issued server command: /scoreboard teams join Owner
+[17:40:09] [Server thread/INFO]: [Matt: Added 1 player(s) to team Owner: Matt]
+[17:40:12] [Server thread/INFO]: divine issued server command: /tpa Matt
+[17:40:17] [Server thread/INFO]: Matt issued server command: /tpaccept
+[17:40:26] [Server thread/INFO]: divine has just earned the achievement [Taking Inventory]
+[17:40:28] [Async Chat Thread - #3/INFO]: <Matt> hi[m
+
+[17:40:45] [Async Chat Thread - #3/INFO]: <Matt> enjoy your time![m
+
+[17:40:49] [Async Chat Thread - #3/INFO]: <Matt> ill have to add rtp ig[m
+
+[17:40:53] [Async Chat Thread - #3/INFO]: <Matt> but at least we have homes!![m
+
+[17:41:01] [Async Chat Thread - #3/INFO]: <divine> you got custom enchants in the server?[m
+
+[17:41:06] [Async Chat Thread - #3/INFO]: <Matt> sadily not yet[m
+
+[17:41:08] [Async Chat Thread - #3/INFO]: <Matt> soon maybe :D[m
+
+[17:41:13] [Async Chat Thread - #3/INFO]: <divine> alr[m
+
+[17:41:19] [Server thread/INFO]: divine issued server command: /rtp
+[17:41:21] [Server thread/INFO]: divine issued server command: /tpr
+[17:41:24] [Server thread/INFO]: divine issued server command: /tpr
+[17:41:27] [Server thread/INFO]: divine issued server command: /rtp
+[17:41:50] [Async Chat Thread - #3/INFO]: <divine> im afk[m
+
+[17:41:55] [Async Chat Thread - #3/INFO]: <Matt> mk[m
+
+[17:42:12] [Server thread/INFO]: Matt issued server command: /rule
+[17:42:14] [Server thread/INFO]: Matt issued server command: /rules
+[17:42:16] [Server thread/INFO]: Matt issued server command: /help
+[17:42:33] [Server thread/INFO]: Matt issued server command: /help LoginSecurity
+[17:42:38] [Server thread/INFO]: Matt issued server command: /lac
+[17:45:20] [Server thread/INFO]: divine lost connection: Timed out
+[17:45:20] [Server thread/INFO]: divine left the game.
+[17:49:54] [Server thread/INFO]: Matt lost connection: Disconnected
+[17:49:54] [Server thread/INFO]: Matt left the game.
+[17:50:14] [Thread-31/INFO]: UUID of player KingBlue1 is b5a54054-b84f-3eb5-8ec8-655c835a92c0
+[17:50:14] [Server thread/INFO]: KingBlue1[/[0:0:0:0:0:0:0:1]:50168] logged in with entity id 8642 at ([world]86.69999998807909, 73.0, 152.57323233284123)
+[17:51:06] [Server thread/INFO]: KingBlue1 lost connection: Disconnected
+[17:51:06] [Server thread/INFO]: KingBlue1 left the game.
