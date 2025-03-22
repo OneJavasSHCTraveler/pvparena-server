@@ -182,3 +182,6 @@ Reason: DW UR UNBANNED JS A TEST
 [17:17:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46074]: Logged in as 'KingBlue1'
 [17:17:13] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:46074|KingBlue1] -> UpstreamBridge has connected
 [17:17:13] [Netty Worker IO Thread #1/INFO]: [KingBlue1|/[0:0:0:0:0:0:0:1%0]:46074] <-> ServerConnector [lobby] has connected
+[17:18:07] [Netty Worker IO Thread #0/INFO]: [Ty_2013] disconnected with: Proxy lost connection to server.
+[17:18:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38808|Ty_2013] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:18:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38808|Ty_2013] -> UpstreamBridge has disconnected
